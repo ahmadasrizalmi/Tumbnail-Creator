@@ -1,3 +1,4 @@
+
 import React, { useState, useRef } from 'react';
 import { AppState, GenerationMode } from '../types';
 import { generateThumbnailFromText, refineThumbnailFromImage, blobToBase64 } from '../services/geminiService';

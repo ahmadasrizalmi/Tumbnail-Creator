@@ -1,66 +1,66 @@
 
 export const PROMPT_CATEGORIES = [
   {
-    category: "Teknologi / Koding",
+    category: "Technology / Coding",
     examples: [
       {
-        name: "AI Bikin Gampang?!",
-        prompt: "Thumbnail YouTube tentang AI coding. Seorang pria dengan ekspresi wajah terkejut dan bingung, menunjuk layar laptop. Latar belakang abstrak dengan visualisasi kode biner dan ikon otak bercahaya. Teks 'AI INI BIKIN GAMPANG?' dengan outline putih tebal dan tanda tanya besar."
+        name: "AI Makes It Easy?!",
+        prompt: "YouTube thumbnail about AI coding. A man with a shocked and confused facial expression, pointing at a laptop screen. Abstract background with binary code visualization and glowing brain icons. Text 'AI MAKES IT EASY?' with a thick white outline and a large question mark."
       },
       {
-        name: "Review Gemini CLI",
-        prompt: "Thumbnail YouTube gaya teknologi. Seorang pria berkacamata dengan ekspresi terkejut dan mulut terbuka, menunjuk ke kanan. Latar belakang digital abstrak berwarna biru dan ungu dengan garis-garis node. Teks besar 'GEMINI CLI' dengan outline putih tebal. Logo Gemini kecil di sebelah teks."
+        name: "Gemini CLI Review",
+        prompt: "Tech-style YouTube thumbnail. A man with glasses, surprised with an open mouth, pointing to the right. Abstract digital background in blue and purple with node lines. Large text 'GEMINI CLI' with a thick white outline. Small Gemini logo next to the text."
       },
       {
-        name: "Setup Koding Impian",
-        prompt: "Thumbnail YouTube gaya tech enthusiast. Seorang wanita tersenyum puas, duduk di depan setup komputer dengan lampu RGB. Latar belakang neon-futuristik yang dinamis. Teks 'SETUP IDAMAN' dengan outline pink cerah. Logo VS Code dan React di sudut."
+        name: "Dream Coding Setup",
+        prompt: "Tech enthusiast style YouTube thumbnail. A satisfied smiling woman sitting in front of a computer setup with RGB lights. Dynamic neon-futuristic background. Text 'DREAM SETUP' with a bright pink outline. VS Code and React logos in the corner."
       }
     ]
   },
   {
-    category: "Keuangan / Bisnis",
+    category: "Finance / Business",
     examples: [
       {
-        name: "Modal HP Doang!",
-        prompt: "Thumbnail YouTube bertema keuangan. Seorang pria dengan ekspresi sangat gembira dan mulut terbuka, melihat ke atas. Latar belakang hujan uang kertas Rupiah dengan nuansa hijau dan kuning. Teks 'RP 100.000.000' dengan outline hitam tebal. Teks sekunder 'MODAL HP DOANG!'."
+        name: "Just a Phone!",
+        prompt: "Finance-themed YouTube thumbnail. A man with a very joyful expression and open mouth, looking up. Background of raining Rupiah banknotes with green and yellow hues. Text 'RP 100,000,000' with a thick black outline. Secondary text 'PHONE ONLY CAPITAL!'."
       },
       {
-        name: "Investasi Anti Rugi",
-        prompt: "Thumbnail YouTube tentang investasi. Seorang wanita dengan ekspresi serius dan berpikir, jari di dagu, melihat grafik saham yang menanjak. Latar belakang abstrak dengan panah hijau ke atas. Teks 'ANTI RUGI?!' dengan outline putih tebal. Ikon banteng (bull market) kecil."
+        name: "Loss-Proof Investment",
+        prompt: "YouTube thumbnail about investing. A woman with a serious and thoughtful expression, finger on her chin, looking at a rising stock chart. Abstract background with green upward arrows. Text 'NO MORE LOSSES?!' with a thick white outline. Small bull market icon."
       },
       {
-        name: "Rahasia Sukses Bisnis",
-        prompt: "Thumbnail YouTube gaya bisnis profesional. Seorang pria tersenyum lebar dengan pose menyilangkan tangan. Latar belakang gradasi biru cerah dengan partikel bercahaya. Teks 'OMSET MILYARAN' dengan outline emas. Teks sekunder 'TERBONGKAR!'."
+        name: "Secret to Business Success",
+        prompt: "Professional business style YouTube thumbnail. A man smiling broadly with a crossed-arms pose. Bright blue gradient background with glowing particles. Text 'BILLIONS IN REVENUE' with a gold outline. Secondary text 'REVEALED!'."
       }
     ]
   },
   {
-    category: "Desain / Kreatif",
+    category: "Design / Creative",
     examples: [
       {
-        name: "Auto Jagoan Desain",
-        prompt: "Thumbnail YouTube profesional untuk desain. Seorang pria dengan ekspresi berpikir serius, jari di dagu. Latar belakang abstrak biru tua. Teks 'AUTO JAGOAN!!' dengan outline putih. Logo Figma dan Adobe XD ditempatkan di latar belakang."
+        name: "Become a Design Pro",
+        prompt: "Professional YouTube thumbnail for design. A man with a serious, thoughtful expression, finger on his chin. Dark blue abstract background. Text 'INSTANT PRO!!' with a white outline. Figma and Adobe XD logos placed in the background."
       },
       {
-        name: "Tips & Trik Canva",
-        prompt: "Thumbnail YouTube cerah dan kreatif. Seorang wanita tersenyum gembira menunjuk ke sebuah kanvas digital yang indah. Latar belakang berwarna pastel dengan elemen-elemen desain abstrak. Teks 'RAHASIA CANVA' dengan outline ungu tebal. Ikon kuas kecil."
+        name: "Canva Tips & Tricks",
+        prompt: "Bright and creative YouTube thumbnail. A cheerful woman smiling and pointing to a beautiful digital canvas. Pastel-colored background with abstract design elements. Text 'CANVA SECRETS' with a thick purple outline. Small paintbrush icon."
       },
       {
-        name: "Blender 3D untuk Pemula",
-        prompt: "Thumbnail YouTube tentang 3D modeling. Seorang pria dengan ekspresi wajah fokus dan kagum, melihat model 3D di layar. Latar belakang ruang kerja 3D yang dinamis. Teks 'PEMULA PASTI BISA!' dengan outline oranye. Logo Blender di sudut."
+        name: "Blender 3D for Beginners",
+        prompt: "YouTube thumbnail about 3D modeling. A man with a focused and amazed facial expression, looking at a 3D model on the screen. Dynamic 3D workspace background. Text 'BEGINNERS CAN DO THIS!' with an orange outline. Blender logo in the corner."
       }
     ]
   },
   {
-    category: "No-Code / Produktivitas",
+    category: "No-Code / Productivity",
     examples: [
       {
-        name: "Bikin Aplikasi Tanpa Koding",
-        prompt: "Thumbnail YouTube cerah dan berwarna-warni. Seorang wanita muda tersenyum gembira dengan ekspresi tidak percaya, tangan di pipi. Latar belakang gradient abstrak berwarna pink dan biru. Teks utama 'TANPA CODING?!' dengan outline hitam tebal. Teks sekunder 'Bisa Bikin Aplikasi!!'. Ikon laptop kecil di sudut."
+        name: "Build Apps Without Code",
+        prompt: "Bright and colorful YouTube thumbnail. A young woman smiling joyfully with a look of disbelief, hands on her cheeks. Abstract pink and blue gradient background. Main text 'NO CODING?!' with a thick black outline. Secondary text 'You Can Build An App!!'. Small laptop icon in the corner."
       },
       {
         name: "Notion Masterclass",
-        prompt: "Thumbnail YouTube tentang produktivitas. Seorang wanita tersenyum dan mengacungkan jempol, di depan dashboard Notion yang terorganisir. Latar belakang bersih minimalis. Teks 'AUTO PRODUKTIF' dengan outline hitam. Logo Notion ditempatkan secara strategis."
+        prompt: "YouTube thumbnail about productivity. A woman smiling and giving a thumbs-up in front of a well-organized Notion dashboard. Clean, minimalist background. Text 'BECOME PRODUCTIVE' with a black outline. Notion logo placed strategically."
       }
     ]
   }
