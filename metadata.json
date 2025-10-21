@@ -1,0 +1,5 @@
+{
+  "name": "Thumbnail Creator",
+  "description": "An AI-powered application to generate and refine compelling video thumbnails using text prompts and image uploads, leveraging the capabilities of the Gemini Image model.",
+  "requestFramePermissions": []
+}
